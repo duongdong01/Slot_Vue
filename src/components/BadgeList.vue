@@ -3,7 +3,7 @@
     <base-card>
     <template v-slot:header>
 
-      <h2>Available Badges 111</h2>
+      <h2>Available Badges 222</h2>
     </template>
     <template v-slot:default>
       <ul>

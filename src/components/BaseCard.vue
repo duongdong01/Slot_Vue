@@ -5,7 +5,6 @@
     <header v-if="$slots.header">
         <slot name="header">
             <h2>The Default 01</h2>
-            <h1>duong</h1>
         </slot>
     </header>
    <slot></slot>
