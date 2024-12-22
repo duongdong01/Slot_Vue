@@ -9,6 +9,7 @@
       </template>
       <template v-slot:default>
         <p>{{ infoText }}</p>
+        <h1>1</h1>
       </template>
     </base-card>
   </section>
